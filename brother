@@ -1,1 +1,6 @@
 print("hellow,world")
+password=input("enter your password")
+if password="10062001":
+print("welcome,to github")
+else:
+print("plz re-enter your password")
